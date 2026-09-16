@@ -1,0 +1,5360 @@
+[
+    {
+        "name": "Office Space for Rent in Sector 74A, Delhi Gurgaon Expressway Gurgaon",
+        "furnished": "1090 sqft",
+        "tenant_preferred": "11 out of 14",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n98,000"
+    },
+    {
+        "name": "Office Space for Rent in Suncity Business Square, Golf Course Road Gurgaon",
+        "furnished": "9",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Vatika Sovereign Park, Sector 99 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF The Grove, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Unitech Millennium plaza, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sector 44 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Sector 72 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View City, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Vipul Business Park, Sector 48 Gurgaon",
+        "furnished": "11",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 2, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Anant Ashok Estate, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n99,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Luxury Floors Gurgaon, Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Belvedere Park, Phase 3 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Malibu Town, Sector 47 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Krisumi Waterfall Residences, Sector 36A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar MGF The Villas, Sector 25 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mahindra Luminare, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 1 DLF Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "5 BHK Apartment for Rent in Indiabulls Enigma, Sector 110 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n94,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,100"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Alpha Gurgaon One 22, Sector 22 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo Victory Valley, Ramgarh, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in BPTP MANSIONS PARK PRIME, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in DLF Corporate Greens, Sector 74A, Delhi Gurgaon Expressway Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "4 BHK Villa for Rent in Mapsko Casa Bella, Sector 82 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in TATA Raisina Residence, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mahindra Luminare, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Skycity, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "5 BHK Apartment for Rent in Emaar MGF Palm Terraces Select, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in JMD Regent Square, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "11",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Ridgewood Estate, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF Phase 1 Arjun Marg, Phase 1 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Sector 56 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura, Phase 3 New Palam Vihar Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Imperial Gardens, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Shapoorji Pallonji Joyville, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 1, Sector 42 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Emerald Bay, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Sector 72 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Regency Park 2, Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Malibu Town, Sector 47 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 38 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n59,000"
+    },
+    {
+        "name": "2 BHK House for Rent in Kendriya Vihar Sector 56, Sector 56 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Galaxy Welldone Tech Park, Badshahpur Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Vipul Trade Centre, Badshahpur Sohna Road Gurgaon",
+        "furnished": "6",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M2K Spring Floors, Sector 50 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "Office in IT Park/ SEZ for Rent in Sector 49 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Sector 62 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK House for Rent in Sector 42 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Shop for Rent in Sector 14 Gurgaon",
+        "furnished": "4 Open",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Mayfield Garden, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "4 BHK Villa for Rent in Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ikonic At M3M The Marina, Sector 68 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Block A Sector 45 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Krisumi Waterfall Residences, Sector 36A Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mahindra Luminare, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura, Sector 110A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "Office Space for Rent in Satya The Hive, Sector 102 Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 22B Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Emaar MGF Colonnade, Sector 66 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n99,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Orchid Island, Orchid Island, Sector 51, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Windsor Court, Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Vatika Town Square , Sector 82A Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "1590 sqft",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Sector 34 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "2 BHK House for Rent in Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Unitech Deerwood, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Exclusive Floors, Sector 54 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park The Orchard, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Office Space for Rent in Emaar Emerald Plaza, Sector 65 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK House for Rent in Sushant Lok 3, Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in BPTP park prime, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in DLF Galleria, DLF City 4 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Unitech Heritage City, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,900"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in ATS Kocoon, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in BPTP MANSIONS PARK PRIME, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in IREO Skyon, Sector 60 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Showroom for Rent in M3M Cosmopolitan, Sector 66 Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Shop for Rent in Baani Square, Sector 50 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View City 2, Sector 49 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in IREO Uptown, Sector 66 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Air, Sector 85 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in Golf Course Road Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar MGF The Enclave, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Block B Sushant Lok Phase 1 Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "400 sqft",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "Office Space for Rent in Sector 74A, Delhi Gurgaon Expressway Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in BPTP park prime, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF Galleria, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 DLF Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in IREO Skyon, Sector 60 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Rosewood City, Sector 49 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Today Blossoms 1, Sector 47 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mapsko Royale Ville, Sector 82 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "Office Space for Rent in Info Technology Park, Sector 34 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in BPTP Freedom Park Life, Tigra, Sector 57, Golf Course Extension Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n69,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Paras Irene, Sector 70A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Orchid Island, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF The Grove, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Emaar Emrald Floors Select, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M smart world orchard Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 45 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mahindra Luminare, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Villa for Rent in Vipul World Floors , Sector 48 Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n74,000"
+    },
+    {
+        "name": "Office Space for Rent in Sector 48 Gurgaon",
+        "furnished": "1 Covered,",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "5 BHK Villa for Rent in Sector 48 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Air, Sector 85 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n59,999"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Gpl Eden Heights, Sector 70 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n59,900"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Unitech South City II, Sector 49 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Ashiana Silver Crest, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 1 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Block G Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 31 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office in IT Park/ SEZ for Rent in ILD Trade Centre, Sohna Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF Belvedere Tower, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "Shop for Rent in Spaze Boulevard, Sohna Road Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "600 sqft",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Shop for Rent in Sector 82 Gurgaon",
+        "furnished": "10 Open",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in ATS Triumph, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF The Ultima, Sector 81 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "1 BHK Apartment for Rent in Central Park The Room, Sector 48 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Palm Terraces Select, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Block C Sushant Lok Phase 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 3 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "4 BHK House for Rent in Uppal Southend, Sector 49, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Sector 51 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "2 BHK House for Rent in Sector 38 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Maxworth Premier Urban, Part 2 Sector 15 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in 4S Aradhya Homes, Sector 67A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "3 BHK House for Rent in South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in City Cooperative Society, Sector 55 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "2 Covered",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Skywalk, Sector 74, Delhi Gurgaon Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Merlin, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Ridgewood Estate, Galleria Market Area Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n66,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 22B Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in South City 1, Block I South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Sector 66 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF Belvedere Tower, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Sushant Lok 2 Sector 55 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 56 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sector 61 Gurgaon",
+        "furnished": "19",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF The Grove, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n67,500"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Golf Course Extension Road Gurgaon",
+        "furnished": "16",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in JMD Megapolis IT Park, Sector 48 Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n99,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Dhani, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar MGF The Vilas, DLF Cyber City Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in The New Shivani, Sector 56 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in JMD Gardens, Sector 33 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar MGF The Vilas, Sector 25 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tashee Capital Gateway, Sector 111 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Alpha Gurgaon One 22, Sector 22 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Ireo Victory Valley, Ramgarh, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Sector 72 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n92,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Raheja Atlantis, Sector 31 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n93,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo The Corridors, Sector 67A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Dhani, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View City 2, Sector 49 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura, Sector 110A Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n52,500"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Experion Windchants, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Modern Luxurious Floors at Malibu Town, Malibu Town, Sector 47 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n59,500"
+    },
+    {
+        "name": "4 BHK Villa for Rent in Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ambience Creacions, Sector 22 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Shop for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Unitech Woodstock Floors, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Wellington Estate, Phase 5 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n74,000"
+    },
+    {
+        "name": "Office Space for Rent in Emaar Emerald Plaza, Sector 65 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Shop for Rent in City Mart, South City 2 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Shop for Rent in Baani Square, Sector 50 Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Galleria Market Area Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Sispal Vihar AWHO Society, Sector 49 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Beverly Park, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Air, Sector 85 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara Vilasa, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Palm Grove Height, Sector 52 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Block P South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mapsko Royale Ville, Sector 82 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Paras Irene, Sector 70A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n59,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Emaar Emrald Floors Select, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 46 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Mahindra Luminare, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sector 47 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office in IT Park/ SEZ for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Villa for Rent in Ashiana Silver Crest, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Mayfield Garden, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "5 BHK House for Rent in Sector 31 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office in IT Park/ SEZ for Rent in ILD Trade Centre, Block A Sector 47 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in RWA Sector 27, Sector 27 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Sector 51 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in IREO Skyon, Sector 60 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Experion Windchants, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "7",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n82,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Central Park Flower Valley, Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n59,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar MGF The Vilas, DLF Cyber City Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "1 Covered,",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,200"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n66,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Indiabulls Enigma, Sector 110 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Alpha Gurgaon One 22, Sector 22 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Bhawna CGHS, Harizan Colony Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Uniworld City, Sector 30 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n88,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo The Grand Arch, Sector 58 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo Victory Valley, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n82,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Primanti, Fazilpur Jharsa, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n73,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View Spa Next, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City 4 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura Phase II, Sector 110A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in ATS Triumph, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n84,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Palm Terraces Select, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Palam Vihar Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Uppal Southend, Sector 49, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Oakwood Estate, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Shop for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Villa for Rent in Unitech Deerwood, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Bestech Park View Spa Next, Ramgarh, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View Spa Next, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Shop for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Ridgewood Estate, Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Block A Sushant Lok Phase 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara Vilasa, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Rosewood City, Sector 49 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Orchid Island, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Paras Irene, Sector 70A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Dhoot Time Residency, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 46 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in JMD Megapolis IT Park, Sector 48 Gurgaon",
+        "furnished": "2 Covered",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sector 44 Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Green Wood Unitech, Block A Sector 45 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ambience Creacions, Sector 22 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n63,500"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Skycity, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n92,000"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "7",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo The Corridors, Sector 67A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar MGF The Vilas, Sector 25 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n61,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar The Palm Drive, Sector 66 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Vipul World Floors , Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n59,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Panwala Khusropur, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n88,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in orchid petals, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Escape, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tulip Yellow, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo The Grand Arch, Sector 58 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Primanti, Fazilpur Jharsa, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n57,300"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Regency Park 2, Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Experion Windchants, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Shapoorji Pallonji, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Ridgewood Estate, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Shop for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n73,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Unitech Woodstock Floors, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara, Sector 60 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in The Close South, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Escape, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Shop for Rent in M3M Cosmopolitan, Sector 66 Gurgaon",
+        "furnished": "6",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Office Space for Rent in Galleria Market Area Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF City 4 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View Spa Next, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n59,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara Vilasa, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Orchid Island, Sector 51 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Ivory, Sector 70 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Shop for Rent in M3M 65th Avenue, Sector 65 Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "550 sqft",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Suncity Success Tower, Golf Course Extension Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in DLF Galleria, Phase 4 DLF Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK House for Rent in Unitech Greenwood City, Block A Sector 45 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Industrial Building for Rent in Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in JMD Megapolis IT Park, Sector 48 Gurgaon",
+        "furnished": "10",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Emaar Emerald Floors Premier, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Palm Terraces Select, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Central Park Flower Valley, Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n98,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar MGF The Villas, Sector 25 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Malibu Town, Sector 47 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Showroom for Rent in Experion The Westerlies, Sector 108 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Park Place, Sector 54 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar Digi Homes, Sector 62 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Fazilpur Jharsa, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura, Sector 110A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "Office Space for Rent in Emaar Emerald Plaza, Sector 65 Gurgaon",
+        "furnished": "9",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "6 BHK Apartment for Rent in Indiabulls Enigma, Sector 110 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Rosewood City, Sector 49 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in M3M Urbana, Sector 67 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Fresco, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Unitech Heritage City, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Shop for Rent in Eros City Square, Sector 49 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Unitech Heritage City, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 2, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara Vilasa, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n69,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Orchid Island, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Shree Vardhman Victoria, Sector 70 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Shop for Rent in M3M 65th Avenue, Sector 65 Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "600 sqft",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Golf Course Extension Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Emaar Mgf Emerald Floors , Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Dlf Beverly Park 2, Sector 25 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in DLF Corporate Greens, Sector 74A, Delhi Gurgaon Expressway Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View City 2, Sector 49 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n64,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Dhoot Time Residency, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "Office Space for Rent in Galaxy Welldone Tech Park, Sector 48 Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,100"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "Showroom for Rent in Experion The Westerlies, Sector 108 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View Spa Next, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Merlin, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n69,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech The Close North, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Digi Homes, Sector 62 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Primanti, Dhani, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n57,300"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 1, Sector 42 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Indiabulls Enigma, Sector 110 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n64,500"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Exclusive Floors, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in orchid petals, Block W Sector 49 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF Belvedere Park, Phase 3 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Ocus Quantum, Sector 51 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF City Independent Floors, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani Samsara Vilasa, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Marina, Sector 68 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Shop for Rent in M3M 65th Avenue, Sector 65 Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "280 sqft",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Urban Square, Golf Course Extension Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Vipul Business Park, Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "7",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Emerald Floors Premier, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n63,000"
+    },
+    {
+        "name": "5 BHK Villa for Rent in International City Phase 1, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Urban Square, Golf Course Extension Road Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Skycity, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n73,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 53 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar Digi Homes, Sector 62 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in BPTP Freedom Park Life, Block B Sushant Lok 3 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Mahindra Aura, Chandan Vihar, Sector 110A Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Emerald Bay, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Malibu Town, Sector 47 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Regency Park 2, Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Fresco, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech The Palms, South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Silver Oak, Phase 1 DLF Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Spaze Edge, Sector 47 Gurgaon",
+        "furnished": "9",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ABW La Lagune Gurgaon, Golf Course Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Emerald Bay, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK House for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n81,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "7",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Floors Premier, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,200"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n76,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Emerald Bay, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 57 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Emaar Digi Homes, Sector 62 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tata Primanti, Fazilpur Jharsa, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Conscient Heritage Max, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in South City 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Regency Park 2, Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sector 30 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Dhoot Time Residency, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in JMD Megapolis IT Park, Sector 48 Gurgaon",
+        "furnished": "14",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ABW La Lagune Gurgaon, Golf Course Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bestech Park View Spa Next, Sector 67 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n82,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tulip Yellow, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Oakwood Estate, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "7",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,100"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Escape, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n63,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Ireo The Grand Arch, Sector 58 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Primanti, Fazilpur Jharsa, Sector 72, Sohna Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "5 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in May Field Garden, Sector 51 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Regency Park 2, Sector 27 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in orchid petals, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Dhoot Time Residency, Sector 63 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 1, Phase 1 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 1, Sector 42 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Sushant Lok-I, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "Office Space for Rent in Sohna Road Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,200"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Estate, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Shiv Shankar Society, Sector 51 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Ireo The Corridors, Sector 67A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ATS Triumph, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n74,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Parsvnath Exotica, Sector 53 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in South City Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech The Palms, Block H South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n68,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in BPTP park prime, Sector 66 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Central Park 1, Sector 42 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Industrial Building for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 2, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in ABW Tower, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "8",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Gurgaon Gateway, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Skycity, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Carlton Estate, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Experion Windchants, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in ATS Triumph, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Parsvnath Exotica, Sector 53 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n56,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in South City Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech The Palms, South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,500"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ABW La Lagune Gurgaon, Golf Course Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tulip Yellow, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Industrial Shed for Rent in Udyog Vihar Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "5500 sqft",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "Office Space for Rent in Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech Escape, Pocket 1 Nirvana Country Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "5 BHK Apartment for Rent in Indiabulls Enigma, Sector 110 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n99,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Unitech The Palms, South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Unitech Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,500"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF The Icon, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "2 BHK Builder Floor for Rent in Birla Navya, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "5",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n66,000"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Unitech Millennium plaza, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "2 BHK House for Rent in Sector 31 32A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n76,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Emaar Emerald Hills, Sector 65 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ATS Triumph, Sector 104 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Princeton Estate, Phase 5 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Unitech Fresco, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Unitech The Palms, Block H South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in BPTP park prime, Sector 66 Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF The Icon, Sector 43 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Signature Global City 63A, Sector 63A Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n52,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tulip Violet, Sector 69 Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Spaze I Tech Park, Sohna Road Gurgaon",
+        "furnished": "12",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n61,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata La Vida, Sector 113 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Pioneer Park, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in Malibu Town, Sohna Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Unitech The Palms, South City 1 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK House for Rent in DLF City Plot Phase 2, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in DLF City Independent Floors, Phase 2 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Conscient Elevate, Sector 59 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n61,400"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,800"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Vatika Sovereign Park, Sector 99 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Gurgaon Gateway, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Pioneer Park, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in DLF Oakwood Estate, Phase 2 DLF Gurgaon",
+        "furnished": "Unfurnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Skycity, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n67,500"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n75,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Tata Gurgaon Gateway, Sector 112 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Unitech Escape, Nirvana Country, Sector 50 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Essel Towers, Mehrauli Gurgaon Road Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in M3M Heights, Sector 65 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Ullahawas, Sector 61, Golf Course Extension Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n61,500"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n51,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Chintels Serenity, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,500"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Block T Phase 3 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Dharampur, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n74,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Chintels Serenity, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n74,500"
+    },
+    {
+        "name": "4 BHK Builder Floor for Rent in Phase 3 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Warehouse/ Godown for Rent in Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,800"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ATS Tourmaline, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Chintels Serenity, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n64,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF The Summit, Sector 54 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park The Orchard, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n70,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Industrial Building for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Puri Diplomatic Greens, Sector 111 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in ATS Kocoon, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n94,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Ansal Valley View Estate, Faridabad Gurgaon Road Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n53,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park The Orchard, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Industrial Shed for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "Bachelors/Family",
+        "tenant_preferred": "4000 sqft",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Smartworld Orchard, Sector 61 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n57,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Warehouse/ Godown for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Sobha City, Dwarka Expressway Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Adani M2K Oyster Grande, Sector 102 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n52,500"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in DLF Trinity Towers, Phase 5 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "Industrial Building for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Sobha City, Dharampur, Sector 108 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n54,500"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Phase 4 DLF Gurgaon",
+        "furnished": "Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park The Orchard, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 4 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Godrej Meridien, Sector 106 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n54,000"
+    },
+    {
+        "name": "3 BHK Builder Floor for Rent in DLF Galleria, Phase 4 DLF Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors",
+        "rent": "\u20b9\n58,000"
+    },
+    {
+        "name": "4 BHK Apartment for Rent in Central Park Aqua Front Towers, Sector 32 Sohna Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n62,000"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in ATS Tourmaline, Sector 109 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Galleria Market Area Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Galleria Market Area Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Bellevue Central Park 2, Central Park 2 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Family",
+        "rent": "\u20b9\n65,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2 Open",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in DLF Regency Park 1, Galleria Market Area Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n50,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park 2, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Warehouse/ Godown for Rent in Badshahpur Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Industrial Building for Rent in Pace City 2 Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "2 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n95,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar, Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Belgravia Resort Residences, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Industrial Building for Rent in Pace City 2 Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1 Lac"
+    },
+    {
+        "name": "3 BHK Apartment for Rent in Central Park Resorts Sky Villas, Sector 48 Gurgaon",
+        "furnished": "Semi-Furnished",
+        "tenant_preferred": "Bachelors/Family",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Industrial Building for Rent in Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2 Open",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n85,000"
+    },
+    {
+        "name": "Office Space for Rent in Commercial Office Space , Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "4",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    },
+    {
+        "name": "Office Space for Rent in Phase 2 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n99,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.5 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n55,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 1 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n75,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.1 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n60,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n90,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.2 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.4 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n80,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "3",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n1.3 Lac"
+    },
+    {
+        "name": "Office Space for Rent in Phase 5 Udyog Vihar Gurgaon",
+        "furnished": "1",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n72,000"
+    },
+    {
+        "name": "Office Space for Rent in Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "\u20b9\n67,000"
+    },
+    {
+        "name": "Office Space for Rent in Phase 3 Udyog Vihar Gurgaon",
+        "furnished": "2",
+        "tenant_preferred": "Immediately",
+        "rent": "Call for Price"
+    }
+]
