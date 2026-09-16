@@ -43,8 +43,7 @@ This project uses **Selenium and Python** to scrape rental property listings fro
 
 ```text
 MagicBricks-Property-Scraper/
-├── MagicBricks_Scraper.ipynb
-├── output/
-│   └── properties.json
+├── property_Scraper.ipynb
+├── property_data.json
 ├── requirements.txt
 └── README.md
